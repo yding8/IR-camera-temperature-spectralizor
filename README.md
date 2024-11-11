@@ -1,4 +1,4 @@
-This program is created by Yang Ding from University of Notre Dame for project semiconductor laser cooling. This project is created to monitor the temperature change using thermal camera.
+This program is created for project semiconductor laser cooling by Yang Ding from Departement of Chemistry, University of Notre Dame. This project is created to monitor the temperature change using thermal camera.
 
 Major Features:
 * Streaming a live video from thermal imaging camera after clicking "Live" button. Three region of interest (red, green, blue) will be created during stearming.
